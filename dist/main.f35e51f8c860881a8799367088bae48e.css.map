@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///webpack:///src/index.css"],"names":[],"mappings":"AAAA,KACI,4CAAiD,CAGrD,SACI,WAAa","file":"main.f35e51f8c860881a8799367088bae48e.css","sourcesContent":["body{\r\n    font-family: Verdana, Geneva, Tahoma, sans-serif;\r\n}\r\n\r\ntable th{\r\n    padding: 5px;\r\n}\n\n\n/** WEBPACK FOOTER **\n ** webpack:///src/index.css\n **/"],"sourceRoot":""}
